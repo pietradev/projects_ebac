@@ -147,3 +147,11 @@ h1{
  header .container a {
     font-family: 'Roboto', sans-serif;
  }
+
+ footer p {
+    background-color: #182C61;
+    padding: 10px 0;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+ }
