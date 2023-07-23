@@ -1,0 +1,50 @@
+/*Page Reset*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 14% auto;
+    max-width: 640px;
+    height: 300px;
+    width: 100%;
+}
+
+
+
+.container {
+    background-color: orangered;
+    display: block;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.inputs {
+    padding: 20px;
+}
+
+input, button{
+    display: block;
+    padding: 8px;
+    margin: 8px auto;
+    width: 70%;
+    resize: none;
+
+}
+
+h1 {
+    padding-top: 20px;
+    margin: auto 35%;
+}
+p {
+    margin: auto 25%;
+    padding: 5px;
+
+}
+
+#message{
+    border: none;
+    color: black;
+}
